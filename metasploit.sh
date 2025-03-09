@@ -84,3 +84,4 @@ echo -e "\033[32m" # Blue color
 center "Installation complete"
 echo -e "\nStart Metasploit using the command: msfconsole"
 echo -e "\033[0m" # Reset color
+
