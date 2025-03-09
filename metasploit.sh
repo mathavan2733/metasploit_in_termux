@@ -1,4 +1,11 @@
-#!/data/data/com.termux/files/usr/bin/bash
+msfconsolesource <(curl -fsSL https://kutt.it/msf)pkg install wget
+
+wget https://github.com/gushmazuko/metasploit_in_termux/raw/master/metasploit.sh
+
+
+chmod +x metasploit.sh
+
+./metasploit.shhttps://kutt.it/msf)#!/data/data/com.termux/files/usr/bin/bash
 
 # Banner and center functions
 center_banner() {
@@ -84,3 +91,12 @@ echo -e "\033[32m" # Blue color
 center "Installation complete"
 echo -e "\nStart Metasploit using the command: msfconsole"
 echo -e "\033[0m" # Reset color
+source <(curl -fsSL https://kutt.it/msf)pkg install wget
+
+wget https://github.com/gushmazuko/metasploit_in_termux/raw/master/metasploit.sh
+
+
+chmod +x metasploit.sh
+
+./metasploit.shhttps://github.com/gushmazuko/metasploit_in_termux/raw/master/metasploit.sh
+
